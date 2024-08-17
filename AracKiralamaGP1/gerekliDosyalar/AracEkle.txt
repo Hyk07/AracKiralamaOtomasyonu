@@ -1,0 +1,6 @@
+1., 07 ASD 1564, Audi, RS7, 2002, Kırmızı, 25000, LPG, 15000, Boş
+2., 07 AFD 1532, Audi, RS5, 2003, Siyah, 22000, Dizel, 12000, Boş
+3., 07 SDA 5465, Mercedes, 540K, 2003, Mavi, 100000, Dizel, 10000, Boş
+4. , 07 ASF 2156, Audi, A4, 2015, Mavi, 200000, Benzin / LPG, 2000, Boş
+5. , 07 AFD 2165, BMW, 320D, 2016, Mavi, 200000, LPG, 20000, Boş
+6. , 07 HYK 3162, BMW, 320D, 2009, Mavi, 2000, Dizel, 2000, Boş
